@@ -20,6 +20,8 @@
 ```bash
 git clone https://github.com/Dk-A-r/JSmusic.git
 cd ./JSmusic
+```
+
 
 Откройте файл "index.html" в директории.
 Нажмите кнопку "Play".
