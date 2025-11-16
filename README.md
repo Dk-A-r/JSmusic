@@ -12,7 +12,7 @@
 
 ---
 
-##Демо
+## Демо
 <a href="https://github.com/Dk-A-r/JSmusic/deployments/github-pages">Github-pages</a>
 
 ## Как использовать
