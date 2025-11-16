@@ -13,7 +13,7 @@
 ---
 
 ## Демо
-<a href="https://github.com/Dk-A-r/JSmusic/deployments/github-pages">Github-pages</a>
+<a href="https://dk-a-r.github.io/JSmusic/">Github-pages</a>
 
 ## Как использовать
 
